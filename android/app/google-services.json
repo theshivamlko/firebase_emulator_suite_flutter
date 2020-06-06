@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "672244448719",
+    "firebase_url": "https://navokitesting.firebaseio.com",
+    "project_id": "navokitesting",
+    "storage_bucket": "navokitesting.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672244448719:android:6eb1b6699f7b5341ebe6ba",
+        "android_client_info": {
+          "package_name": "com.navoki.firebaseemulatorflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672244448719-suvhalgle0fang8k8rahse80t8n7s806.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYkVt16Pv1PjQy4fGa42EpyoRu6fQVU3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "672244448719-suvhalgle0fang8k8rahse80t8n7s806.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672244448719:android:30de6bd517796d81ebe6ba",
+        "android_client_info": {
+          "package_name": "com.navoki.firebaseemulatorsuite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672244448719-suvhalgle0fang8k8rahse80t8n7s806.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYkVt16Pv1PjQy4fGa42EpyoRu6fQVU3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "672244448719-suvhalgle0fang8k8rahse80t8n7s806.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
